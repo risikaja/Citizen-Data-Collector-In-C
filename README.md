@@ -22,9 +22,12 @@ When the program is executed, the following menu options are presented:
 9. Exit the program.<br><br>
 <b>Technical Features:</b><br>
 
+
 <b>Registration:</b> Add a new citizen with all required information.<br>
 <b>Modification:</b> Edit any registered data for an existing citizen.<br>
 <b>Deletion:</b> Completely remove a citizen from the registry.<br>
 <b>Search:</b> Find citizens based on ID, last name, or phone number.<br>
 <b>Sorting:</b> Organize citizens by first name or last name.<br>
 <b>Persistence:</b> Data is saved to a file and automatically loaded at the program start to ensure data continuity.<br>
+__**Author**__
+•	Riza Kaja
