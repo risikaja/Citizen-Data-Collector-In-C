@@ -1,5 +1,5 @@
 # Citizen-Data-Collector-In-C
-This repository contains a program designed to register and manage citizen data. The program allows storing and handling information such as ID, first name, last name, address, phone number, and email.<br>
+This repository contains a program designed to register and manage citizen data. The program allows storing and handling information such as ID, first name, last name, address, phone number, and email.<br><br>
 <b>Key features include:</b>
 
 <b>Search:</b> Find citizens based on ID, last name, or phone number.<br>
@@ -7,7 +7,7 @@ This repository contains a program designed to register and manage citizen data.
 <b>Deletion:</b> Remove the stored data for a specific citizen.<br>
 <b>Sorting:</b> Organize citizens by first name or last name.<br>
 <b>Persistence:</b> All citizen data is saved to a file, ensuring data is retained between sessions. Previously saved data is accessible upon each program execution.<br>
-<b>Menu Options</b?<br>
+<b>Menu Options</b><br>
 When the program is executed, the following menu options are presented:
 
 0. Register a new citizen.
