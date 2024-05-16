@@ -20,10 +20,11 @@ When the program is executed, the following menu options are presented:
 7. Sort citizens by first name.
 8. Sort citizens by last name.
 9. Exit the program.<br>
-Technical Features:<br>
-Registration: Add a new citizen with all required information.
-Modification: Edit any registered data for an existing citizen.
-Deletion: Completely remove a citizen from the registry.
-Search: Find citizens based on ID, last name, or phone number.
-Sorting: Organize citizens by first name or last name.
-Persistence: Data is saved to a file and automatically loaded at the program start to ensure data continuity.
+<b>Technical Features:</b><br>
+
+<b>Registration:</b> Add a new citizen with all required information.<br>
+<b>Modification:</b> Edit any registered data for an existing citizen.<br>
+<b>Deletion:</b> Completely remove a citizen from the registry.<br>
+<b>Search:</b> Find citizens based on ID, last name, or phone number.<br>
+<b>Sorting:</b> Organize citizens by first name or last name.<br>
+<b>Persistence:</b> Data is saved to a file and automatically loaded at the program start to ensure data continuity.<br>
