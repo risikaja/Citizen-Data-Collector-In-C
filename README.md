@@ -19,7 +19,7 @@ When the program is executed, the following menu options are presented:
 6. Display previously saved data.
 7. Sort citizens by first name.
 8. Sort citizens by last name.
-9. Exit the program.<br>
+9. Exit the program.<br><br>
 <b>Technical Features:</b><br>
 
 <b>Registration:</b> Add a new citizen with all required information.<br>
