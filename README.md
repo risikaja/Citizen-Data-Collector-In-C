@@ -2,7 +2,7 @@
 This repository contains a program designed to register and manage citizen data. The program allows storing and handling information such as ID, first name, last name, address, phone number, and email.
 Key features include:
 
-Search: Find citizens based on ID, last name, or phone number.
+<b>Search:</b> Find citizens based on ID, last name, or phone number.
 Modification: Update the registered data for any citizen.
 Deletion: Remove the stored data for a specific citizen.
 Sorting: Organize citizens by first name or last name.
@@ -20,7 +20,7 @@ When the program is executed, the following menu options are presented:
 7. Sort citizens by first name.
 8. Sort citizens by last name.
 9. Exit the program.<br>
-Technical Features:
+Technical Features:<br>
 Registration: Add a new citizen with all required information.
 Modification: Edit any registered data for an existing citizen.
 Deletion: Completely remove a citizen from the registry.
